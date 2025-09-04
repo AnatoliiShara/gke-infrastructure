@@ -1,0 +1,5 @@
+github_owner = "AnatoliiShara"
+github_token = "your_github_token_here"
+github_repository = "flux-demo-simple"
+cluster_name = "flux-kind-cluster"
+flux_namespace = "flux-system"
